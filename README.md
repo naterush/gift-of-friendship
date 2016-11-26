@@ -20,10 +20,10 @@ A simple Ethereum dapp that make's gift giving easy and fun. The contract is ten
 
 6. If one member forgets to wish the other member a happy birthday, they can wish them a happy belated birthday within a set time period. This sends half of their present to the other member of the deal immediatly, while half gets stored in the contract. 
 
-7. If one member completly forgets the others birthday, never wishing their friend happy birthday or a happy belated birthday (within the time perdiod), then the money locked in the contract can be taken out by the friend who did not have happy birthday wished to them.
+7. If one member completly forgets the others birthday, never wishing their friend happy birthday then the money locked in the contract can be taken out by the friend who did not have happy birthday wished to them.
 
 ##Future Plans
-This smart contract is currently a P21OP smart contract. Two peers interact on it. It may be better (to save on gas costs and accessability) into making on smart contract for all players, in which they can form relationships with as many peers as they want. 
+This smart contract is currently a P21OP smart contract. Two peers interact on it. It may be better (to save on gas costs and accessability) into making one smart contract for all players, in which they can form relationships with as many peers as they want. 
 
 Also, there may be a benefit for wishing your friend a happy birthday earlier in the day than later, so they know you really have been thinking about them. 
 
