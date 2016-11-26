@@ -23,7 +23,9 @@ A simple Ethereum dapp that make's gift giving easy and fun. The contract is ten
 7. If one member completly forgets the others birthday, never wishing their friend happy birthday or a happy belated birthday (within the time perdiod), then the money locked in the contract can be taken out by the friend who did not have happy birthday wished to them.
 
 ##Future Plans
-There may be some benefit of each person having their own smart contract that represents them. They use their own personally Gift of Friendship smart contract to interact with other smart contracts, having a mapping of others addresses to agreed upon balances. That way, you do not have to have multiple smart contracts for each friendship you have.
+This smart contract is currently a P21OP smart contract. Two peers interact on it. It may be better (to save on gas costs and accessability) into making on smart contract for all players, in which they can form relationships with as many peers as they want. 
 
 Also, there may be a benefit for wishing your friend a happy birthday earlier in the day than later, so they know you really have been thinking about them. 
+
+Finially, future changes have been proposed where the present amount has to increase according to some function of time. 
 
