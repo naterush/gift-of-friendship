@@ -1,13 +1,13 @@
 # Gift-Of-Friendship
 A simple Ethereum dapp that make's gift giving easy and fun. The contract is tentativly called ‘Gift of Friendship.’ Make sure you don't forget your family and friends birthdays.
 
-##Goals: 
+## Goals: 
 1. Provide a fun way to get your friends to use the ethereum blockchain.
 
 2. Provide the best way to facilitate gift giving (let's be honest, how many times do you really like the gifts you get?).
 
 
-##How it Works
+## How it Works
 1. As a present for their friend, an ethereum user sets up a Gift of Friendship smart contract.
 
 2. On their friends birthday, they wish them a happy birthday as well as send them a present in the form of ether.
@@ -22,7 +22,7 @@ A simple Ethereum dapp that make's gift giving easy and fun. The contract is ten
 
 7. If one member completly forgets the others birthday, never wishing their friend happy birthday then the money locked in the contract can be taken out by the friend who did not have happy birthday wished to them.
 
-##Future Plans
+## Future Plans
 This smart contract is currently a P21OP smart contract. Two peers interact on it. It may be better (to save on gas costs and accessability) into making one smart contract for all players, in which they can form relationships with as many peers as they want. 
 
 Also, there may be a benefit for wishing your friend a happy birthday earlier in the day than later, so they know you really have been thinking about them. 
